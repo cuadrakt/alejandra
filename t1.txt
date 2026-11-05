@@ -1,2 +1,3 @@
 estructura de html
 footer
+estilo css
